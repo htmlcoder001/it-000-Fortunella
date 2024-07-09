@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>submenu-icon-down</title>
+    <g id="submenu-icon-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy" transform="translate(0.000078, 65.000000)" fill="#ffffff">
+            <path d="M101.212397,69.6329166 L199.12352,3.58606291 C200.062885,2.95240575 200.281545,1.71813201 199.611911,0.829235348 C199.219935,0.308911534 198.586317,0 197.911041,0 L2.08879518,0 C0.935185457,0 0,0.884941934 0,1.97657313 C0,2.61556947 0.326450316,3.21514588 0.87631607,3.58606291 L98.7874389,69.6329166 C99.5130156,70.1223611 100.48682,70.1223611 101.212397,69.6329166 Z" id="Triangle"></path>
+        </g>
+    </g>
+</svg>
